@@ -13,6 +13,7 @@
 **Description:** A top-down 2D shooter where you play as a tank and find upgrades / new weapons to progress further (Metroidvania with Hotline Miami controls). Shoot projectiles at enemy robots to kill them and avoid getting hit!
 
 **Technologies Used:** Unity C#
+
 **GitHub:** [Link]([https://github.com/seankim04/VG1_SemProject)  
 
 **Demo:** [Link](https://drive.google.com/file/d/1QwQnjkRgzyOHDzojKRVk7piaGeVefiBH/view?usp=sharing)
