@@ -5,7 +5,7 @@
 
 **Technologies Used:** React, Uvicorn + FastAPI, MongoDB, Pytorch, Hugging Face Transformers, SynthID
 
-**GitHub:** [Link](https://github.com/cse3300-fall-2025/creative-project-module7-525483-518279)  
+**GitHub:** [Link](https://github.com/seankim04/ai-app)
 
 **Demo:** [Link](https://drive.google.com/file/d/1pyJJSBIq92e8x1vqxBv3zqdlJjZ54vop/view?usp=sharing)
 
@@ -25,7 +25,7 @@
 
 **Technologies Used:** Node.js, JavaScript, Socket.IO, HTML/CSS
 
-**GitHub:** [Link](https://github.com/cse3300-fall-2025/module6-group-module6-525483-518279)
+**GitHub:** [Link](https://github.com/seankim04/chatroom-app)
 
 **Demo:** [Link](https://drive.google.com/file/d/1zds_4xoQn0yEMGV1y439X6GG4QR3Th9P/view?usp=sharing)
 
@@ -36,7 +36,7 @@
 
 **Technologies Used:** React, Tailwind CSS, JavaScript, Adzuna API, RESTful APIs
 
-**GitHub:** [Link](https://github.com/WUSTL-CSE204A-SP2025-Section-2/final-project-seankim04)  
+**GitHub:** [Link](https://github.com/seankim04/accel-cs)  
 
 **Demo:** [Link](https://drive.google.com/file/d/1fLB1D4dzcJ2zFNW0s48oMYJ9u3FHpdki/view?usp=sharing)
 
@@ -45,6 +45,6 @@
 
 **Technologies Used:** JavaScript, HTML/CSS, PHP, MySQL
 
-**GitHub:** [Link](https://github.com/cse3300-fall-2025/module5-group-module5-525483-518279)
+**GitHub:** [Link](https://github.com/seankim04/calendar-app)
 
 **Demo:** [Link](https://drive.google.com/file/d/1aNZiDRLCDHK9fJ_7Ak0GKTEuNhZB4MRI/view?usp=sharing)
