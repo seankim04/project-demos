@@ -14,7 +14,7 @@
 
 **Technologies Used:** Unity C#
 
-**GitHub:** [Link]([https://github.com/seankim04/VG1_SemProject)  
+**GitHub:** [Link](https://github.com/seankim04/VG1_SemProject)  
 
 **Demo:** [Link](https://drive.google.com/file/d/1QwQnjkRgzyOHDzojKRVk7piaGeVefiBH/view?usp=sharing)
 
